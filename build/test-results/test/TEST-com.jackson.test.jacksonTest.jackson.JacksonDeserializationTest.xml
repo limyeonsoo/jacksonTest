@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jackson.test.jacksonTest.jackson.JacksonDeserializationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-05T08:22:04" hostname="YSL-MacBook.local" time="0.268">
+  <properties/>
+  <testcase name="public_object_field_by_access_modifier_deserialization()" classname="com.jackson.test.jacksonTest.jackson.JacksonDeserializationTest" time="0.262"/>
+  <testcase name="with_getter_package_private_object_field_by_access_modifier_deserialization()" classname="com.jackson.test.jacksonTest.jackson.JacksonDeserializationTest" time="0.003"/>
+  <testcase name="with_private_setter_package_private_object_field_by_access_modifier_deserialization()" classname="com.jackson.test.jacksonTest.jackson.JacksonDeserializationTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
